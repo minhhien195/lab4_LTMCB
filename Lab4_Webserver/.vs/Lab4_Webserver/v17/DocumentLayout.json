@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF27B9A6-05AD-4056-83FD-0DB2E32098C5}|Lab4_Webserver\\Lab4_Webserver.csproj|E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\lab4_webserver\\bai4_webbrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF27B9A6-05AD-4056-83FD-0DB2E32098C5}|Lab4_Webserver\\Lab4_Webserver.csproj|solutionrelative:lab4_webserver\\bai4_webbrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF27B9A6-05AD-4056-83FD-0DB2E32098C5}|Lab4_Webserver\\Lab4_Webserver.csproj|E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\lab4_webserver\\bai4_webbrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF27B9A6-05AD-4056-83FD-0DB2E32098C5}|Lab4_Webserver\\Lab4_Webserver.csproj|solutionrelative:lab4_webserver\\bai4_webbrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF27B9A6-05AD-4056-83FD-0DB2E32098C5}|Lab4_Webserver\\Lab4_Webserver.csproj|E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\lab4_webserver\\bai4_webbrowser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF27B9A6-05AD-4056-83FD-0DB2E32098C5}|Lab4_Webserver\\Lab4_Webserver.csproj|solutionrelative:lab4_webserver\\bai4_webbrowser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF27B9A6-05AD-4056-83FD-0DB2E32098C5}|Lab4_Webserver\\Lab4_Webserver.csproj|E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\lab4_webserver\\bai3_download.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF27B9A6-05AD-4056-83FD-0DB2E32098C5}|Lab4_Webserver\\Lab4_Webserver.csproj|solutionrelative:lab4_webserver\\bai3_download.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF27B9A6-05AD-4056-83FD-0DB2E32098C5}|Lab4_Webserver\\Lab4_Webserver.csproj|E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\lab4_webserver\\bai3_download.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF27B9A6-05AD-4056-83FD-0DB2E32098C5}|Lab4_Webserver\\Lab4_Webserver.csproj|solutionrelative:lab4_webserver\\bai3_download.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF27B9A6-05AD-4056-83FD-0DB2E32098C5}|Lab4_Webserver\\Lab4_Webserver.csproj|E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\lab4_webserver\\bai2_post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF27B9A6-05AD-4056-83FD-0DB2E32098C5}|Lab4_Webserver\\Lab4_Webserver.csproj|solutionrelative:lab4_webserver\\bai2_post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF27B9A6-05AD-4056-83FD-0DB2E32098C5}|Lab4_Webserver\\Lab4_Webserver.csproj|E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\lab4_webserver\\bai2_post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF27B9A6-05AD-4056-83FD-0DB2E32098C5}|Lab4_Webserver\\Lab4_Webserver.csproj|solutionrelative:lab4_webserver\\bai2_post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF27B9A6-05AD-4056-83FD-0DB2E32098C5}|Lab4_Webserver\\Lab4_Webserver.csproj|E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\lab4_webserver\\bai1_get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF27B9A6-05AD-4056-83FD-0DB2E32098C5}|Lab4_Webserver\\Lab4_Webserver.csproj|solutionrelative:lab4_webserver\\bai1_get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF27B9A6-05AD-4056-83FD-0DB2E32098C5}|Lab4_Webserver\\Lab4_Webserver.csproj|E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\lab4_webserver\\bai1_get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF27B9A6-05AD-4056-83FD-0DB2E32098C5}|Lab4_Webserver\\Lab4_Webserver.csproj|solutionrelative:lab4_webserver\\bai1_get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF27B9A6-05AD-4056-83FD-0DB2E32098C5}|Lab4_Webserver\\Lab4_Webserver.csproj|E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\lab4_webserver\\bai1_get.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF27B9A6-05AD-4056-83FD-0DB2E32098C5}|Lab4_Webserver\\Lab4_Webserver.csproj|solutionrelative:lab4_webserver\\bai1_get.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai4_webBrowser.Designer.cs",
+              "DocumentMoniker": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\Lab4_Webserver\\Bai4_webBrowser.Designer.cs",
+              "RelativeDocumentMoniker": "Lab4_Webserver\\Bai4_webBrowser.Designer.cs",
+              "ToolTip": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\Lab4_Webserver\\Bai4_webBrowser.Designer.cs",
+              "RelativeToolTip": "Lab4_Webserver\\Bai4_webBrowser.Designer.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAEwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:43:32.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai4_webBrowser.cs",
+              "DocumentMoniker": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\Lab4_Webserver\\Bai4_webBrowser.cs",
+              "RelativeDocumentMoniker": "Lab4_Webserver\\Bai4_webBrowser.cs",
+              "ToolTip": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\Lab4_Webserver\\Bai4_webBrowser.cs",
+              "RelativeToolTip": "Lab4_Webserver\\Bai4_webBrowser.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:18:55.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai4_webBrowser.cs [Design]",
+              "DocumentMoniker": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\Lab4_Webserver\\Bai4_webBrowser.cs",
+              "RelativeDocumentMoniker": "Lab4_Webserver\\Bai4_webBrowser.cs",
+              "ToolTip": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\Lab4_Webserver\\Bai4_webBrowser.cs [Design]",
+              "RelativeToolTip": "Lab4_Webserver\\Bai4_webBrowser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T01:52:10.073Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bai3_Download.cs",
+              "DocumentMoniker": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\Lab4_Webserver\\Bai3_Download.cs",
+              "RelativeDocumentMoniker": "Lab4_Webserver\\Bai3_Download.cs",
+              "ToolTip": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\Lab4_Webserver\\Bai3_Download.cs",
+              "RelativeToolTip": "Lab4_Webserver\\Bai3_Download.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T01:44:10.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai3_Download.cs [Design]",
+              "DocumentMoniker": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\Lab4_Webserver\\Bai3_Download.cs",
+              "RelativeDocumentMoniker": "Lab4_Webserver\\Bai3_Download.cs",
+              "ToolTip": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\Lab4_Webserver\\Bai3_Download.cs [Design]",
+              "RelativeToolTip": "Lab4_Webserver\\Bai3_Download.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T01:42:07.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bai2_POST.cs",
+              "DocumentMoniker": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\Lab4_Webserver\\Bai2_POST.cs",
+              "RelativeDocumentMoniker": "Lab4_Webserver\\Bai2_POST.cs",
+              "ToolTip": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\Lab4_Webserver\\Bai2_POST.cs",
+              "RelativeToolTip": "Lab4_Webserver\\Bai2_POST.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAywCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T01:20:18.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bai2_POST.cs [Design]",
+              "DocumentMoniker": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\Lab4_Webserver\\Bai2_POST.cs",
+              "RelativeDocumentMoniker": "Lab4_Webserver\\Bai2_POST.cs",
+              "ToolTip": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\Lab4_Webserver\\Bai2_POST.cs [Design]",
+              "RelativeToolTip": "Lab4_Webserver\\Bai2_POST.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T01:18:36.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bai1_GET.Designer.cs",
+              "DocumentMoniker": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\Lab4_Webserver\\Bai1_GET.Designer.cs",
+              "RelativeDocumentMoniker": "Lab4_Webserver\\Bai1_GET.Designer.cs",
+              "ToolTip": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\Lab4_Webserver\\Bai1_GET.Designer.cs",
+              "RelativeToolTip": "Lab4_Webserver\\Bai1_GET.Designer.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAADgvzMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T01:11:02.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bai1_GET.cs",
+              "DocumentMoniker": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\Lab4_Webserver\\Bai1_GET.cs",
+              "RelativeDocumentMoniker": "Lab4_Webserver\\Bai1_GET.cs",
+              "ToolTip": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\Lab4_Webserver\\Bai1_GET.cs",
+              "RelativeToolTip": "Lab4_Webserver\\Bai1_GET.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAvwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T01:10:21.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bai1_GET.cs [Design]",
+              "DocumentMoniker": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\Lab4_Webserver\\Bai1_GET.cs",
+              "RelativeDocumentMoniker": "Lab4_Webserver\\Bai1_GET.cs",
+              "ToolTip": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab4\\Lab4_Webserver\\Lab4_Webserver\\Bai1_GET.cs [Design]",
+              "RelativeToolTip": "Lab4_Webserver\\Bai1_GET.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T01:07:39.441Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

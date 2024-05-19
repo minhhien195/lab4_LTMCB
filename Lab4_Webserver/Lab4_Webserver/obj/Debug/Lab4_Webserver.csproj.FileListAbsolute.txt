@@ -1,0 +1,17 @@
+E:\HK4_UIT\LTMCB\Lab\Lab4\Lab4_Webserver\Lab4_Webserver\bin\Debug\Lab4_Webserver.exe.config
+E:\HK4_UIT\LTMCB\Lab\Lab4\Lab4_Webserver\Lab4_Webserver\bin\Debug\Lab4_Webserver.exe
+E:\HK4_UIT\LTMCB\Lab\Lab4\Lab4_Webserver\Lab4_Webserver\bin\Debug\Lab4_Webserver.pdb
+E:\HK4_UIT\LTMCB\Lab\Lab4\Lab4_Webserver\Lab4_Webserver\obj\Debug\Lab4_Webserver.csproj.AssemblyReference.cache
+E:\HK4_UIT\LTMCB\Lab\Lab4\Lab4_Webserver\Lab4_Webserver\obj\Debug\Lab4_Webserver.Bai1_GET.resources
+E:\HK4_UIT\LTMCB\Lab\Lab4\Lab4_Webserver\Lab4_Webserver\obj\Debug\Lab4_Webserver.Properties.Resources.resources
+E:\HK4_UIT\LTMCB\Lab\Lab4\Lab4_Webserver\Lab4_Webserver\obj\Debug\Lab4_Webserver.csproj.GenerateResource.cache
+E:\HK4_UIT\LTMCB\Lab\Lab4\Lab4_Webserver\Lab4_Webserver\obj\Debug\Lab4_Webserver.csproj.CoreCompileInputs.cache
+E:\HK4_UIT\LTMCB\Lab\Lab4\Lab4_Webserver\Lab4_Webserver\obj\Debug\Lab4_Webserver.exe
+E:\HK4_UIT\LTMCB\Lab\Lab4\Lab4_Webserver\Lab4_Webserver\obj\Debug\Lab4_Webserver.pdb
+E:\HK4_UIT\LTMCB\Lab\Lab4\Lab4_Webserver\Lab4_Webserver\obj\Debug\Lab4_Webserver.Bai2_POST.resources
+E:\HK4_UIT\LTMCB\Lab\Lab4\Lab4_Webserver\Lab4_Webserver\obj\Debug\Lab4_Webserver.Bai3_Download.resources
+E:\HK4_UIT\LTMCB\Lab\Lab4\Lab4_Webserver\Lab4_Webserver\bin\Debug\HtmlAgilityPack.dll
+E:\HK4_UIT\LTMCB\Lab\Lab4\Lab4_Webserver\Lab4_Webserver\bin\Debug\HtmlAgilityPack.pdb
+E:\HK4_UIT\LTMCB\Lab\Lab4\Lab4_Webserver\Lab4_Webserver\bin\Debug\HtmlAgilityPack.xml
+E:\HK4_UIT\LTMCB\Lab\Lab4\Lab4_Webserver\Lab4_Webserver\obj\Debug\Lab4_Webserver.Bai4_webBrowser.resources
+E:\HK4_UIT\LTMCB\Lab\Lab4\Lab4_Webserver\Lab4_Webserver\obj\Debug\Lab4_Web.87EB203F.Up2Date
